@@ -1,2 +1,3 @@
 # Yaf_init
-initialization Yaf Framework
+initialization  Yaf Framework
+need initialization composer
